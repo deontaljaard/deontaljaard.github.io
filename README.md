@@ -1,1 +1,2 @@
-My personal Jekyll site.
+This is my personal Jekyll site.
+
