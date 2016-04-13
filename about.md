@@ -18,7 +18,7 @@ I believe in having a balance in life. Thus, in my personal time, there are a ho
 * work on a personal project with my best friend
 * try (yes, try) and stay fit in the gym
 * play stuff on my acoustic guitar
-* lehren mich Deutsch
+* lehre mich Deutsch
 
 I never get time to do all of the above in one day, however, I never sit around twirling my fingers and try to make the most of the days on Earth I have been blessed with.
 
