@@ -18,7 +18,7 @@ First of all, I like to keep things simple. GitHub Pages is hosted directly from
 
 ### This theme
 
-This theme was created by [Ben Centra](https://github.com/bencentra) - thanks Ben! You can check it out on the [Github repository](https://github.com/poole/hyde).
+This theme was created by [Ben Centra](https://github.com/bencentra) - thanks Ben! You can check it out on the [Github repository](https://github.com/bencentra/centrarium).
 
 ### Getting started
 

@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Jul 2017 18:34:09 +0200</pubDate>
-    <lastBuildDate>Fri, 07 Jul 2017 18:34:09 +0200</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2017 18:34:17 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Jul 2017 18:34:17 +0200</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
     
       <item>
@@ -22,7 +22,7 @@
 
 &lt;h3 id=&quot;this-theme&quot;&gt;This theme&lt;/h3&gt;
 
-&lt;p&gt;This theme was created by &lt;a href=&quot;https://github.com/bencentra&quot;&gt;Ben Centra&lt;/a&gt; - thanks Ben! You can check it out on the &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This theme was created by &lt;a href=&quot;https://github.com/bencentra&quot;&gt;Ben Centra&lt;/a&gt; - thanks Ben! You can check it out on the &lt;a href=&quot;https://github.com/bencentra/centrarium&quot;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;getting-started&quot;&gt;Getting started&lt;/h3&gt;
 
